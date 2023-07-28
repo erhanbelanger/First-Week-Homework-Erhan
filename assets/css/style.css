@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* fixed header file as i believe it was a dead link, needed to speciy in css file */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
